@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{EB94DB0C-E983-4F1E-B2DB-5689BCEE8468}|Target Teste.csproj|d:\\repos\\target teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB94DB0C-E983-4F1E-B2DB-5689BCEE8468}|Target Teste.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB94DB0C-E983-4F1E-B2DB-5689BCEE8468}|Target Teste.csproj|d:\\repos\\target teste\\faturamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB94DB0C-E983-4F1E-B2DB-5689BCEE8468}|Target Teste.csproj|solutionrelative:faturamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Faturamento.cs",
+              "DocumentMoniker": "D:\\repos\\Target Teste\\Faturamento.cs",
+              "RelativeDocumentMoniker": "Faturamento.cs",
+              "ToolTip": "D:\\repos\\Target Teste\\Faturamento.cs",
+              "RelativeToolTip": "Faturamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:03:00.221Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\repos\\Target Teste\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T14:56:13.753Z",
               "EditorCaption": ""

@@ -1,0 +1,15 @@
+D:\repos\Target Teste\bin\Debug\net8.0\Target Teste.exe
+D:\repos\Target Teste\bin\Debug\net8.0\Target Teste.deps.json
+D:\repos\Target Teste\bin\Debug\net8.0\Target Teste.runtimeconfig.json
+D:\repos\Target Teste\bin\Debug\net8.0\Target Teste.dll
+D:\repos\Target Teste\bin\Debug\net8.0\Target Teste.pdb
+D:\repos\Target Teste\obj\Debug\net8.0\Target Teste.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Target Teste\obj\Debug\net8.0\Target Teste.AssemblyInfoInputs.cache
+D:\repos\Target Teste\obj\Debug\net8.0\Target Teste.AssemblyInfo.cs
+D:\repos\Target Teste\obj\Debug\net8.0\Target Teste.csproj.CoreCompileInputs.cache
+D:\repos\Target Teste\obj\Debug\net8.0\Target Teste.sourcelink.json
+D:\repos\Target Teste\obj\Debug\net8.0\Target Teste.dll
+D:\repos\Target Teste\obj\Debug\net8.0\refint\Target Teste.dll
+D:\repos\Target Teste\obj\Debug\net8.0\Target Teste.pdb
+D:\repos\Target Teste\obj\Debug\net8.0\Target Teste.genruntimeconfig.cache
+D:\repos\Target Teste\obj\Debug\net8.0\ref\Target Teste.dll
